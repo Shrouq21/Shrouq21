@@ -3,12 +3,8 @@ I’m a competitive programmer with a growing interest in software engineering.<
 
 ### 🌐 Socials:
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="https://medium.com" target="_blank"><img src="https://shields.io" alt="Medium"></a>
-  <a href="https://pinterest.com" target="_blank"><img src="https://shields.io" alt="Pinterest"></a>
-  <a href="https://quora.com" target="_blank"><img src="https://shields.io" alt="Quora"></a>
-</p>
+[<img src="https://shields.io">](https://linkedin.com) [<img src="https://shields.io">](https://medium.com) [<img src="https://shields.io">](https://pinterest.com) [<img src="https://shields.io">](https://quora.com)
+
 
 
 # 💻 Tech Stack:
