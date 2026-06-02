@@ -3,7 +3,7 @@ I’m a competitive programmer with a growing interest in software engineering.<
 
 ### 🌐 Socials:
 
-[<img src="https://shields.io">](https://linkedin.com) [<img src="https://shields.io">](https://medium.com) [<img src="https://shields.io">](https://pinterest.com) [<img src="https://shields.io">](https://quora.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com) [![Medium](https://shields.io)](https://medium.com) [![Pinterest](https://shields.io)](https://pinterest.com) [![Quora](https://shields.io)](https://quora.com)
 
 
 
