@@ -14,8 +14,7 @@
 - 🎓 Third-year **Computer Science** student
 - ⚔️ Competitive programmer with **1000+ problems** solved on Codeforces & Vjudge
 - 🏆 Active **ICPC** participant and technical community member
-- 🗄️ Practicing **SQL** (50 SQL problems on LeetCode) & exploring **NoSQL / MongoDB**
-- 💡 Currently leveling up in **DSA**, **Databases**, and **Software Engineering**
+- 💡 Currently working through **SQL50** on LeetCode & **NeetCode DSA Roadmap**
 - 📚 Always learning, always growing — one problem at a time
 
 <br clear="right"/>
@@ -59,6 +58,10 @@
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
@@ -71,10 +74,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrouq21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrouq21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shrouq21&theme=tokyonight&hide_border=true&background=0d1117" width="55%" />
 </p>
 
 <p align="center">
