@@ -1,13 +1,14 @@
 # 💫 About Me:
 I’m a competitive programmer with a growing interest in software engineering.<br> I enjoy learning new technologies, building my skills step by step, and improving my coding abilities over time.<br> I’m always exploring new ideas and updating my knowledge as I grow.
 
-
 ### 🌐 Socials:
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Medium](https://shields.io)](https://medium.com)
-[![Pinterest](https://shields.io)](https://pinterest.com)
-[![Quora](https://shields.io)](https://quora.com)
+<p align="left">
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
+  <a href="https://medium.com" target="_blank"><img src="https://shields.io" alt="Medium"></a>
+  <a href="https://pinterest.com" target="_blank"><img src="https://shields.io" alt="Pinterest"></a>
+  <a href="https://quora.com" target="_blank"><img src="https://shields.io" alt="Quora"></a>
+</p>
 
 
 # 💻 Tech Stack:
