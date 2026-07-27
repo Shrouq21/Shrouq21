@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hi,%20I'm%20Shrouq!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20·%20CS%20Student%20·%20Software%20Engineering%20Enthusiast&descAlignY=55&descSize=16)
@@ -12,31 +11,12 @@
 <img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - 🎓 Third-year **Computer Science** student
-- ⚔️ Competitive programmer with **1000+ problems** solved on Codeforces & Vjudge
+- ⚔️ Competitive programmer with **1000+ problems** solved on Codeforces & VJudge
 - 🏆 Active **ICPC** participant and technical community member
-- 💡 Currently working through **SQL50** on LeetCode & **NeetCode DSA Roadmap**
-- 📚 Always learning, always growing — one problem at a time
+- 📚 Passionate about software engineering, problem solving, and building real-world applications
+- 🌱 Always learning and exploring new technologies
 
 <br clear="right"/>
-
----
-
-## 🚀 What I'm Currently Working On
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/NeetCode-DSA_Roadmap-orange?style=for-the-badge&logo=leetcode&logoColor=white" /><br/><br/>
-      <b>NeetCode DSA Roadmap</b><br/>
-      <sub>Grinding through data structures & algorithms — Arrays, Trees, Graphs, DP and more</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/LeetCode-SQL_50-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /><br/><br/>
-      <b>LeetCode SQL 50</b><br/>
-      <sub>Completing the SQL50 study plan — JOINs, aggregations, window functions & more</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -46,9 +26,23 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
+
+---
+
+## 📱 Frameworks & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
 
 ## 🗄️ Databases
 
@@ -58,14 +52,16 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+---
+
 ## 🛠️ Tools & Platforms
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -92,8 +88,8 @@
       <a href="https://leetcode.com/u/Shrouqasaad21/">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
       </a><br/><br/>
-      <b>DSA + SQL50</b><br/>
-      <sub>NeetCode roadmap & SQL study plan</sub>
+      <b>LeetCode</b><br/>
+      <sub>Practicing Data Structures, Algorithms, and SQL</sub>
     </td>
   </tr>
 </table>
@@ -126,10 +122,6 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shrouq21&color=blueviolet&style=flat-square&label=Profile+Views" />
-</div>
 
 <div align="center">
 
