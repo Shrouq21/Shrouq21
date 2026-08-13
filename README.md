@@ -12,7 +12,7 @@
 
 * 🎓 Fourth-year **Computer Science** student
 * 🏆 Active **ICPC** participant and technical community member
-* 💡 Interested in Software Engineering, Mobile Development, and Problem Solving
+* 💡 Interested in Software Engineering, and Problem Solving
 * 📚 Always learning and exploring new technologies
 
 <br clear="right"/>
