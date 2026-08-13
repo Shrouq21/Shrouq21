@@ -11,7 +11,6 @@
 <img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 * 🎓 Fourth-year **Computer Science** student
-* ⚔️ Competitive programmer who has solved **1000+ problems** across multiple online judges
 * 🏆 Active **ICPC** participant and technical community member
 * 💡 Interested in Software Engineering, Mobile Development, and Problem Solving
 * 📚 Always learning and exploring new technologies
