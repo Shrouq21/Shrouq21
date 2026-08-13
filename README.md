@@ -51,14 +51,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrouq21&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="95%" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
