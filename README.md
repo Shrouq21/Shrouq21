@@ -12,7 +12,7 @@
 
 * 🎓 Fourth-year **Computer Science** student
 * 🏆 Active **ICPC** participant and technical community member
-* 💡 Interested in Software Engineering, and Problem Solving
+* 💡 Interested in Software Engineering and Problem Solving
 * 📚 Always learning and exploring new technologies
 
 <br clear="right"/>
@@ -54,8 +54,14 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="mailto:shrouqasaad21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/shrouq-asaad-809901251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Shrouqasaad21/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://x.com/ShrouqAsaa10639" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
